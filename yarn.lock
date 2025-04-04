@@ -1903,6 +1903,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@bigbinary/neetoui@5.2.41":
+  version "5.2.41"
+  resolved "https://registry.yarnpkg.com/@bigbinary/neetoui/-/neetoui-5.2.41.tgz#4d2da0f858e7ab41520707b054defd6d1c17d18a"
+  integrity sha512-Nh21TGSpzkvPQQ+6v/T9TL/LVfON2tzcT4wK5P5BftdpaAjLbNbRCS9+la8XoDWBV+9dxE+Jgsr95ZODX65X4w==
+
 "@csstools/normalize.css@*":
   version "12.0.0"
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-12.0.0.tgz#a9583a75c3f150667771f30b60d9f059473e62c4"
