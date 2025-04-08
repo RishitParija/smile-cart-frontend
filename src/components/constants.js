@@ -4,3 +4,4 @@
 //   "https://ik.imagekit.io/d9mvewbju/SmileCart/2_HoKD2OblW.png",
 //   "https://ik.imagekit.io/d9mvewbju/SmileCart/3_-6sHqwicC.png",
 // ];
+export const VALID_COUNT_REGEX = /^(?:\d*|)$/;
